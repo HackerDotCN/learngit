@@ -3,4 +3,6 @@ $ git status
 $ git add filename
 $ git commit -m "Your description"
 $ git diff filename
-$ git 
+$ git log
+$ 
+
