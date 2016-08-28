@@ -1,8 +1,8 @@
 $ git init
 $ git status
-$ git add filename
+$ git add <filename>
 $ git commit -m "Your description"
-$ git diff filename
+$ git diff <filename>
 $ git log
 $ git reflog
 $ git reset --hard HEAD^ or commit_id
