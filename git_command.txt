@@ -6,5 +6,7 @@ $ git diff <filename>
 $ git log
 $ git reflog
 $ git reset --hard HEAD^ or commit_id
+$ git reset HEAD <filename>
+$ git checkout -- filename
 $ git 
 
